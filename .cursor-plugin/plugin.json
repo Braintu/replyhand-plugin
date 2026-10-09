@@ -1,0 +1,23 @@
+{
+  "name": "replyhand",
+  "displayName": "Replyhand",
+  "version": "1.0.0",
+  "description": "Search your customer conversations, contacts and sales pipeline, count results, and train the AI agent that answers your customers on WhatsApp.",
+  "author": {
+    "name": "Braintu Inc.",
+    "email": "support@replyhand.com"
+  },
+  "homepage": "https://replyhand.com/mcp",
+  "repository": "https://github.com/Braintu/replyhand-plugin",
+  "license": "MIT",
+  "keywords": [
+    "whatsapp",
+    "crm",
+    "customer conversations",
+    "ai agent",
+    "sales pipeline",
+    "instagram",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "replyhand",
+  "version": "1.0.0",
+  "description": "Search your customer conversations, contacts and sales pipeline, count results, and train the AI agent that answers your customers on WhatsApp.",
+  "mcpServers": {
+    "replyhand": {
+      "httpUrl": "https://replyhand.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
